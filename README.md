@@ -18,7 +18,7 @@
 
 I am currently a 3rd-year student pursuing a B.Tech in the field of Computer Science and Engineering from Banasthali Vidyapith. I'm a tech enthusiast with a great interest in Artificial Intelligence, App and Web Development. I am a Flutter developer too. I'm well versed with Data Structures and Algorithms in C++. I'm also very passionate about learning new things and making new projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=0e75b6&style=flat" alt="ananya0504" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=0e75b6&style=flat" alt="ananya0504" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ananya0504" target="blank"><img src="https://img.shields.io/twitter/follow/ananya0504?logo=twitter&style=for-the-badge" alt="ananya0504" /></a> </p>
 
