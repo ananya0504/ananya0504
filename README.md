@@ -56,6 +56,6 @@ I am currently a 3rd-year student pursuing a B.Tech in the field of Computer Sci
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya0504&show_icons=true&locale=en" alt="ananya0504" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya0504&show_icons=true&locale=en&layout=compact" alt="ananya0504" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya0504&show_icons=true&locale=en&layout=compact" alt="ananya0504" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya0504&" alt="ananya0504" /></p>
