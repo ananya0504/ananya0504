@@ -26,9 +26,9 @@ I am currently a 3rd-year student pursuing a B.Tech in the field of Computer Sci
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🔭 I’m currently working on - **AdGyde**
+- 🔭 I’m currently working on - **Movie Review Analysis and InsightRX project at BFHL**
 
-- 🌱 I’m currently learning **Natural Language Processing using NLTK**
+- 🌱 I’m currently learning **Natural Language Processing using NLTK and Data Analysis**
 
 - 👯 I’m looking to collaborate on **projects based on AI/ML**
 
