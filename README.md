@@ -23,7 +23,7 @@ I am currently a 3rd-year student pursuing a B.Tech in the field of Computer Sci
 <p align="left"> <a href="https://twitter.com/ananya0504" target="blank"><img src="https://img.shields.io/twitter/follow/ananya0504?logo=twitter&style=for-the-badge" alt="ananya0504" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=129e00&style=plastic" alt="ananya0504" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 
 - 🔭 I’m currently working on - **Movie Review Analysis and InsightRX project at BFHL**
