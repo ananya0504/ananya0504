@@ -22,15 +22,24 @@ I am currently a 3rd-year student pursuing a B.Tech in the field of Computer Sci
 
 <p align="left"> <a href="https://twitter.com/ananya0504" target="blank"><img src="https://img.shields.io/twitter/follow/ananya0504?logo=twitter&style=for-the-badge" alt="ananya0504" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=129e00&style=plastic" alt="ananya0504" /> </p>
+<p align="left"> 
+
+  [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/LeanIn-BV)
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeanIn-BV/HacktoberFest2021)
+  <img src="https://komarev.com/ghpvc/?username=ananya0504&label=Profile%20views&color=129e00&style=plastic" alt="ananya0504" />
+
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 
 - 🔭 I’m currently working on - **Movie Review Analysis and InsightRX project at BFHL**
 
-- 🌱 I’m currently learning **Natural Language Processing using NLTK and Data Analysis**
+- 🌱 I’m currently learning **Making APIs with Flask**
 
 - 👯 I’m looking to collaborate on **projects based on AI/ML**
+
+- 💼 View my portfolio at [https://portfolio-ananya0504.herokuapp.com/](https://portfolio-ananya0504.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananya0504](https://github.com/ananya0504)
 
