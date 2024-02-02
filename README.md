@@ -39,7 +39,7 @@ I am currently a final year student pursuing a B.Tech in the field of Computer S
 
 - 👯 I’m looking to collaborate on **projects based on AI/ML**
 
-- 💼 View my portfolio at [https://portfolio-ananya0504.herokuapp.com/](https://portfolio-ananya0504.herokuapp.com/)
+- 💼 View my portfolio at [https://codewithananya.in/](https://codewithananya.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananya0504](https://github.com/ananya0504)
 
